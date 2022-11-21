@@ -11,8 +11,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="[src/assets/logo1.png](https://github.com/tahirtas/peypay.io/blob/main/src/assets/logo1.png)">
-    <img src="src/assets/logo1.png" alt="PeyPay" >
+  <a href="[src/assets/logo1.png](https://github.com/vibofglobal/peypay.io/blob/main/src/assets/logo1.png)">
+    <img src="src/assets/logo1.png" alt="PEYPAY" >
   </a>
 
   <h3 align="center">PEYPAY.io</h3>
@@ -106,7 +106,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Vibof PeyPay - [@vibofturkiye](https://twitter.com/vibofturkiye) 
 
-Project Link: [https://github.com/tahirtas/peypay.io](https://github.com/tahirtas/peypay.io)
+Project Link: [https://github.com/vibofglobal/peypay.io](https://github.com/vibofglobal/peypay.io)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,11 +117,11 @@ Project Link: [https://github.com/tahirtas/peypay.io](https://github.com/tahirta
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/tahirtas/peypay.io/network/members
+[forks-url]: https://github.com/vibofglobal/peypay.io/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/tahirtas/peypay.io/stargazers
+[stars-url]: https://github.com/vibofglobal/peypay.io/stargazers
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/tahirtas/peypay.io/blob/master/LICENSE.txt
+[license-url]: https://github.com/vibofglobal/peypay.io/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/vibof
 [product-screenshot-1]: src/assets/screenshoot-1.png
